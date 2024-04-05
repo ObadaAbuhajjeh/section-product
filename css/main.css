@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.product {
+    text-align: center;
+    margin: auto;
+    h1{
+        margin-bottom: 40px;
+        margin-right:900px;
+        margin-top: 20px;
+    }
+}
+.type-product{
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    border: 1px solid darkgrey;
+    margin-bottom: 5px;
+    h2{
+        margin-top: 5px;
+        margin-bottom: 15px;
+    }
+}
+.LineColor{
+    color: darkgray;
+    margin-top: 7px;
+    margin-bottom: 15px;
+}
+.NewPriceCol{
+    color: green;
+}
+.OldPriceCol{
+    color: red;
+    font-size: 11px;
+}
+.ButtonSpess{
+    color: white;
+    width: 150px;
+    height: 25px;
+    background-color:darkcyan;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+.ButtSpess{
+    width: 25px;
+    height: 25px;
+    border: blue 2px solid;
+}
+i{
+    color: black;
+
+}
